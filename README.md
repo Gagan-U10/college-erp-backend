@@ -1,4 +1,6 @@
-# College ERP Backend
+# College ERP 
+
+Inspired by the need for efficient student management in colleges, this ERP system provides a centralized platform for course enrollment and user authentication. The goal was to create a modern, responsive web application that solves real-world educational challenges.
 
 ## Description
 A Node.js backend for a College ERP system, handling user registration and login with MongoDB Atlas and Mongoose.
@@ -28,6 +30,3 @@ DB_URI=mongodb+srv://yourusername:yourpassword@cluster0.3mrhtmq.mongodb.net/coll
 ## Troubleshooting
 - MongoDB errors? Check IP whitelist and DB_URI.
 - Node.js v14+ required.
-
-## License
-MIT
